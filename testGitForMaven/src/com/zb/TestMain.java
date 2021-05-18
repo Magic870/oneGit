@@ -7,5 +7,8 @@ public class TestMain {
         System.out.println("this is master changed");
 
         System.out.println("this is oneBranch changed");
+
+
+        System.out.println("我是分支版本,我后更新然提交后再master合并");
     }
 }
