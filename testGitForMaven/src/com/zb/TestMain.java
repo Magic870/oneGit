@@ -8,5 +8,8 @@ public class TestMain {
 
         System.out.println("master master master");
         System.out.println("FINAL this is master");
+
+
+        System.out.println("应该是idea中将master版本先更新,然后分支版本还在未更新之前的版本,然后合并会冲突?");
     }
 }
